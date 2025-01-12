@@ -1,3 +1,6 @@
 
 Function Test_1()
 	Return 1
+
+Function branch()
+	Return "New Feature"
