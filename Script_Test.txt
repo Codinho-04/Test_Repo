@@ -4,3 +4,6 @@ Function Test_1()
 
 Function branch()
 	Return "New Feature updated"
+
+Function branch_2()
+	Return "New User"
