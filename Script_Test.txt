@@ -4,3 +4,4 @@ Function Test_1()
 
 Function branch()
 	Return "New Feature updated"
+	Return "Merge to main 2nd"
