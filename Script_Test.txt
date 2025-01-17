@@ -1,9 +1,11 @@
 
 Function Test_1()
 	Return 1
+	Return 2
 
 Function branch()
 	Return "New Feature updated"
+	Return "Merge to main 2nd"
 
 Function branch_2()
 	Return "New User"
