@@ -9,3 +9,4 @@ Function branch()
 
 Function branch_2()
 	Return "New User"
+	Return "testing rebase"
